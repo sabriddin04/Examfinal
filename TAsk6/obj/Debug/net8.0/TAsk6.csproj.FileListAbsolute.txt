@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\exam\TAsk6\bin\Debug\net8.0\TAsk6.exe
+C:\Users\Hp\Desktop\exam\TAsk6\bin\Debug\net8.0\TAsk6.deps.json
+C:\Users\Hp\Desktop\exam\TAsk6\bin\Debug\net8.0\TAsk6.runtimeconfig.json
+C:\Users\Hp\Desktop\exam\TAsk6\bin\Debug\net8.0\TAsk6.dll
+C:\Users\Hp\Desktop\exam\TAsk6\bin\Debug\net8.0\TAsk6.pdb
+C:\Users\Hp\Desktop\exam\TAsk6\obj\Debug\net8.0\TAsk6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\exam\TAsk6\obj\Debug\net8.0\TAsk6.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\exam\TAsk6\obj\Debug\net8.0\TAsk6.AssemblyInfo.cs
+C:\Users\Hp\Desktop\exam\TAsk6\obj\Debug\net8.0\TAsk6.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\exam\TAsk6\obj\Debug\net8.0\TAsk6.dll
+C:\Users\Hp\Desktop\exam\TAsk6\obj\Debug\net8.0\refint\TAsk6.dll
+C:\Users\Hp\Desktop\exam\TAsk6\obj\Debug\net8.0\TAsk6.pdb
+C:\Users\Hp\Desktop\exam\TAsk6\obj\Debug\net8.0\TAsk6.genruntimeconfig.cache
+C:\Users\Hp\Desktop\exam\TAsk6\obj\Debug\net8.0\ref\TAsk6.dll
